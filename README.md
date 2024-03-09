@@ -1,7 +1,7 @@
-This is the curd
-c for creat
-u for update
-r for review
+This is the crud
+c for creat \n
+r for read \n
+u for update \n
 d for delete
 
 

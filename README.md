@@ -1,7 +1,7 @@
 This is the crud
-c for creat \n
-r for read \n
-u for update \n
+c for creat
+r for read
+u for update 
 d for delete
 
 
